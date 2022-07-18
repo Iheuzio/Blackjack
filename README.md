@@ -7,7 +7,6 @@ Terminal based game of Blackjack written in Java
 - git
 
 ## Steps
-#
 clone this repository to your folder
 ```
 git clone https://github.com/Iheuzio/Blackjack.git
