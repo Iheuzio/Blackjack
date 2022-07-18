@@ -11,12 +11,10 @@ clone this repository to your folder
 ```
 git clone https://github.com/Iheuzio/Blackjack.git
 ```
-#
 Run javac command
 ```
 javac *.java
 ```
-#
 Execute the Blackjack file
 ```
 java Blackjack
