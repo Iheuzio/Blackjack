@@ -1,6 +1,6 @@
 # Blackjack
 
-Terminal based game of Blackjack written in Java
+Terminal based game of Blackjack written in Java for a school project
 ## Requirements
 - Java sdk installed on the computer
 - Access to a terminal
