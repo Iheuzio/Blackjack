@@ -1,12 +1,11 @@
 # Blackjack
-#
+
 Terminal based game of Blackjack written in Java
-#
 ## Requirements
 - Java sdk installed on the computer
 - Access to a terminal
 - git
-#
+
 ## Steps
 #
 clone this repository to your folder
